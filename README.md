@@ -78,15 +78,6 @@ HelloCodeSchoolProject (answer) $ npm test
 
 # Making it Public
 
-Once all tests are passing, try pushing your master branch up to the `gh-pages` branch -- this will make your webpage available on the web! Here's a command to do that:
-
-```
-$ git push origin master:gh-pages
-```
-
-This will make your `index.html` file available at the URL:
-
-`http://<username>.github.io/HelloCodeSchoolProject/`
 
 # Another Answer
 
