@@ -7,8 +7,7 @@ This is a sample project to test out how projects work at Code School. For this 
 To get started with this project, head over to the [Hello Code School](https://www.codeschool.com/projects/hello-code-school) project on Code School, and begin! It'll walk you through all of the steps below. They're included here in the readme in case you work better locally, or want to try working on this project offline.
 
 # Prerequisites
-
-In order to complete this project, you'll need to know the basics of HTML! Aside from that, you'll need a local computer where you can install git, and edit some files. We'll walk you through that part, so if you haven't used Git before -- don't worry. We recommend that you should have already completed Code Schools [Front-End Foundations](https://www.codeschool.com/courses/front-end-foundations) course, or have basic familiarity with HTML. When we say basic familiarity here's what we mean:
+ [Front-End Foundations](https://www.codeschool.com/courses/front-end-foundations) course, or have basic familiarity with HTML. When we say basic familiarity here's what we mean:
 
 * Know what an HTML tag looks like
 * Know some of the most common tags -- `title`, `h1`, `ul`, `li`.
